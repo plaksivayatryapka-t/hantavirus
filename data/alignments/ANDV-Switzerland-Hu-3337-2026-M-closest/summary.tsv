@@ -1,0 +1,7 @@
+type	left	right	compared	differences	identity_percent	gap_columns	ambiguous_compared
+nucleotide	Swiss_2026_M	NRC-4_2018_M_MN258192.1	3644	39	98.930	19	0
+nucleotide	Swiss_2026_M	NRC-3_1997_M_MN258191.1	3643	38	98.957	20	0
+nucleotide	NRC-4_2018_M_MN258192.1	NRC-3_1997_M_MN258191.1	3655	1	99.973	8	0
+protein	Swiss_2026_M	NRC-4_2018_M_MN258192.1	1138	3	99.736	0	0
+protein	Swiss_2026_M	NRC-3_1997_M_MN258191.1	1138	2	99.824	0	0
+protein	NRC-4_2018_M_MN258192.1	NRC-3_1997_M_MN258191.1	1138	1	99.912	0	0
