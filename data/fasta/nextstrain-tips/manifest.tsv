@@ -1,0 +1,238 @@
+segment	accession	tip_name	country
+S	AF482717.1	14403/nan/None	
+S	EF571895.1	P5/Cajuru/nan/Brazil	Brazil
+S	AF482716.1	13796/nan/None	
+S	KF581134.1	769/2010/Peru	Peru
+S	JF750417.1	FVB799/2009/Bolivia	Bolivia
+S	JF750418.1	FVB640/2008/Bolivia	Bolivia
+S	JF750419.1	FVB554/2008/Bolivia	Bolivia
+S	AF482715.1	22996/nan/None	
+S	AF325966.1	AND-Nort/nan/None	
+S	OQ092245.1	VARS/22-01/2022-12-09/Brazil	Brazil
+S	PP504848.1	URU_1/1996/Uruguay	Uruguay
+S	DQ345763.1	Neembucu/nan/Paraguay	Paraguay
+S	AF482713.1	Oc22531/nan/None	
+S	OR890439.1	Lechiguanas/2022/Argentina	Argentina
+S	OR908896.1	ER19-SP1693/2019/Argentina	Argentina
+S	AF482714.1	22819/nan/None	
+S	PP058740.1	15631_S|Argentina|1998/1998/Argentina	Argentina
+S	OR908898.1	BA18-LD1633/2018/Argentina	Argentina
+S	OR908897.1	BA18-RR1620/2018/Argentina	Argentina
+S	OR908893.1	BA10-OE1169/2010/Argentina	Argentina
+S	OR908892.1	BA10-GJ1165/2010/Argentina	Argentina
+S	OR908890.1	BA16_LJC1557/2002/Argentina	Argentina
+S	OR908889.1	BA02_ROM495/2002/Argentina	Argentina
+S	OR908888.1	BA02_AOA490/2002/Argentina	Argentina
+S	OR908886.1	BA02_RJF487/2002/Argentina	Argentina
+S	OR908887.1	BA02_VO483/2002/Argentina	Argentina
+S	OR908885.1	BA02_VVD480/2002/Argentina	Argentina
+S	OR908884.1	BA02_VVN481/2002/Argentina	Argentina
+S	OR908891.1	BA17_SD1583/2002/Argentina	Argentina
+S	OR908895.1	BA11-IM1254/2011/Argentina	Argentina
+S	OR908894.1	BA11-MH1249/2011/Argentina	Argentina
+S	PP504847.1	BA02_SMM478/2002/Argentina	Argentina
+S	OR875982.1	BA02_SMM484/2002/Argentina	Argentina
+S	OP555730.1	Arg-h484/nan/Argentina	Argentina
+S	MT956622.1	Chile-9717869/1997/Chile	Chile
+S	AF291702.1	Chile-9717869/nan/None	
+S	NC_003466.1	Chile-9717869/nan/None-2	
+S	MN850086.1	ARCH14/NRC1/nan/None	
+S	AF324902.1	AH-1/nan/None	
+S	MN258227.1	NRC-5/18_06/01/2018/nan/Argentina	Argentina
+S	MN258224.1	NRC-2/97_06/01/1996/nan/Argentina	Argentina
+S	AY228237.1	CHI-7913/nan/Chile	Chile
+S	PV808470.1	CHI-7913/1999/Chile	Chile
+S	OR405525.1	ANDV-CH-LS-2016/2016/Switzerland	Switzerland
+S	OR405520.1	ANDV-CH-LS-2022/2022/Switzerland	Switzerland
+S	KY659432.1	ANDV-LS-CH-2016-ex-Chile/2016-12-26/Switzerland	Switzerland
+S	MN258226.1	NRC-4/18_06/01/2018/nan/Argentina	Argentina
+S	MN258225.1	NRC-3/18_06/01/1997/nan/Argentina	Argentina
+S	PV808473.1	CHI-Hu13724_P1/2024-07-24/Chile	Chile
+S	PV808467.1	137/2024-06-27/Chile	Chile
+S	PV808476.1	CHI-Hu13724_P2/2024-07-30/Chile	Chile
+S	PV796316.1	136/2024-06-27/Chile	Chile
+S	OP555722.1	Andes/ARG_p19/nan/Argentina	Argentina
+S	OP555723.1	Andes/ARG-O.l.444/nan/Argentina	Argentina
+S	OP555720.1	Andes/ARG_p3/nan/Argentina	Argentina
+S	OP555728.1	Andes/ARG-M.a./nan/Argentina	Argentina
+S	OP555721.1	Andes/ARG_p9/nan/Argentina	Argentina
+S	MN850085.1	AREB14/P3/nan/None	
+S	MN850084.1	AREB14/P2/nan/None	
+S	MN850083.1	AREB14/P1/nan/None	
+S	MN258228.1	NRC-6/18_05/21/18/nan/Argentina	Argentina
+S	MN850087.1	ARLA17/NRC2/nan/None	
+S	MN258223.1	Epilink/96_2/6/19/nan/Argentina	Argentina
+S	MN258249.1	Epuyen/18-19_Patient_2_11/23/18/nan/Argentina	Argentina
+S	MN258237.1	Epuyen/18-19_Patient_18_12/31/18/nan/Argentina	Argentina
+S	MN258234.1	Epuyen/18-19_Patient_15_12/26/18/nan/Argentina	Argentina
+S	MN258256.1	Epuyen/18-19_Patient_9_12/12/18/nan/Argentina	Argentina
+S	MN258253.1	Epuyen/18-19_Patient_6_11/25/18/nan/Argentina	Argentina
+S	MN258241.1	Epuyen/18-19_Patient_22_1/1/19/nan/Argentina	Argentina
+S	MN258242.1	Epuyen/18-19_Patient_23_1/7/19/nan/Argentina	Argentina
+S	MN258254.1	Epuyen/18-19_Patient_7_12/7/18/nan/Argentina	Argentina
+S	MN258247.1	Epuyen/18-19_Patient_28_1/6/19/nan/Argentina	Argentina
+S	MN258251.1	Epuyen/18-19_Patient_4_11/27/18/nan/Argentina	Argentina
+S	MN258255.1	Epuyen/18-19_Patient_8_12/13/18/nan/Argentina	Argentina
+S	MN258240.1	Epuyen/18-19_Patient_20_1/1/19/nan/Argentina	Argentina
+S	MN258238.1	Epuyen/18-19_Patient_19_1/2/19/nan/Argentina	Argentina
+S	MN258244.1	Epuyen/18-19_Patient_25_1/6/19/nan/Argentina	Argentina
+S	MN258236.1	Epuyen/18-19_Patient_17_12/31/18/nan/Argentina	Argentina
+S	MN258248.1	Epuyen/18-19_Patient_29_1/14/19/nan/Argentina	Argentina
+S	MN258235.1	Epuyen/18-19_Patient_16_12/28/18/nan/Argentina	Argentina
+S	MN258231.1	Epuyen/18-19_Patient_12_12/19/18/nan/Argentina	Argentina
+S	MN258243.1	Epuyen/18-19_Patient_24_1/3/19/nan/Argentina	Argentina
+S	MN258233.1	Epuyen/18-19_Patient_14_12/26/18/nan/Argentina	Argentina
+S	MN258246.1	Epuyen/18-19_Patient_27_1/8/19/nan/Argentina	Argentina
+S	MN258245.1	Epuyen/18-19_Patient_26_1/4/19/nan/Argentina	Argentina
+S	MN258239.1	Epuyen/18-19_Patient_1_11/3/18/nan/Argentina	Argentina
+S	MN258230.1	Epuyen/18-19_Patient_11_12/15/18/nan/Argentina	Argentina
+S	MN258252.1	Epuyen/18-19_Patient_5_11/26/18/nan/Argentina	Argentina
+S	MN258229.1	Epuyen/18-19_Patient_10_12/10/18/nan/Argentina	Argentina
+S	MN258250.1	Epuyen/18-19_Patient_3_11/20/18/nan/Argentina	Argentina
+S	MN258232.1	Epuyen/18-19_Patient_13_12/24/18/nan/Argentina	Argentina
+M	OR890440.1	Lechiguanas/2022/Argentina	Argentina
+M	PP151163.1	BA18-RR1620/2018/Argentina	Argentina
+M	OR987856.1	ER19-SP1693/2019/Argentina	Argentina
+M	PP151164.1	BA18-LD1633/2018/Argentina	Argentina
+M	OQ092244.1	VARS/22-01/2022-12-09/Brazil	Brazil
+M	OR987855.1	BA10-OE1169/2010/Argentina	Argentina
+M	OR987854.1	BA10-GJ1165/2010/Argentina	Argentina
+M	OR965908.1	BA02_SMM484/2002/Argentina	Argentina
+M	OP555731.1	Arg-h484/nan/Argentina	Argentina
+M	PP003838.1	BA17_SD1583/2017/Argentina	Argentina
+M	PP003839.1	BA11-MH1249/2011/Argentina	Argentina
+M	OR987853.1	BA16_LJC1557/2016/Argentina	Argentina
+M	OR987851.1	BA02_AOA490/2002/Argentina	Argentina
+M	OR987852.1	BA02_ROM495/2002/Argentina	Argentina
+M	OR987850.1	BA02_RJF487/2002/Argentina	Argentina
+M	OR965910.1	BA02_VVD480/2002/Argentina	Argentina
+M	OR965911.1	BA02_VO483/2002/Argentina	Argentina
+M	OR965909.1	BA02_VVN481/2002/Argentina	Argentina
+M	PP058741.1	13796_M|Argentina|1990/1990/Argentina	Argentina
+M	MN850091.1	ARCH14/NRC1/nan/None	
+M	MT956623.1	Chile-9717869/1997/Chile	Chile
+M	AF291703.2	Chile-9717869/nan/None	
+M	NC_003467.2	Chile-9717869/nan/None-2	
+M	MN258190.1	NRC-2/97_06/01/1996/nan/Argentina	Argentina
+M	AY228238.1	CHI-7913/nan/Chile	Chile
+M	PV808471.1	CHI-7913/1999/Chile-2	Chile
+M	MT956619.1	CHI-7913/1999/Chile	Chile
+M	AF324901.2	AH-1/nan/None	
+M	MN258193.1	NRC-5/18_06/01/2018/nan/Argentina	Argentina
+M	KY604962.1	LS-CH2016/2016-12-23/Switzerland	Switzerland
+M	OR405524.1	ANDV-CH-LS-2016/2016/Switzerland	Switzerland
+M	OR405521.1	ANDV-CH-LS-2022/2022/Switzerland	Switzerland
+M	MN258192.1	NRC-4/18_06/01/2018/nan/Argentina	Argentina
+M	MN258191.1	NRC-3/18_06/01/1997/nan/Argentina	Argentina
+M	PV808468.1	137/2024-06-27/Chile	Chile
+M	PV808477.1	CHI-Hu13724_P2/2024-07-30/Chile	Chile
+M	PV808474.1	CHI-Hu13724_P1/2024-07-24/Chile	Chile
+M	PV796317.1	136/2024-06-27/Chile	Chile
+M	OP555729.1	Andes/ARG-M.a./nan/Argentina	Argentina
+M	OP555727.1	Andes/ARG_p19/nan/Argentina	Argentina
+M	OP555726.1	Andes/ARG_p9/nan/Argentina	Argentina
+M	OP555725.1	Andes/ARG_p3/nan/Argentina	Argentina
+M	OP555724.1	Andes/ARG-O.l.444/nan/Argentina	Argentina
+M	MN850090.1	AREB14/P3/nan/None	
+M	MN850089.1	AREB14/P2/nan/None	
+M	MN850088.1	AREB14/P1/nan/None	
+M	MN850092.1	ARLA17/NRC2/nan/None	
+M	MN258189.1	Epilink/96_2/6/19/nan/Argentina	Argentina
+M	MN258194.1	NRC-6/18_05/21/18/nan/Argentina	Argentina
+M	MN258217.1	Epuyen/18-19_Patient_4_11/27/18/nan/Argentina	Argentina
+M	MN258215.1	Epuyen/18-19_Patient_2_11/23/18/nan/Argentina	Argentina
+M	MN258213.1	Epuyen/18-19_Patient_28_1/6/19/nan/Argentina	Argentina
+M	MN258211.1	Epuyen/18-19_Patient_26_1/4/19/nan/Argentina	Argentina
+M	MN258207.1	Epuyen/18-19_Patient_22_1/1/19/nan/Argentina	Argentina
+M	MN258202.1	Epuyen/18-19_Patient_17_12/31/18/nan/Argentina	Argentina
+M	MN258198.1	Epuyen/18-19_Patient_13_12/24/18/nan/Argentina	Argentina
+M	MN258206.1	Epuyen/18-19_Patient_20_1/1/19/nan/Argentina	Argentina
+M	MN258204.1	Epuyen/18-19_Patient_19_1/2/19/nan/Argentina	Argentina
+M	MN258199.1	Epuyen/18-19_Patient_14_12/26/18/nan/Argentina	Argentina
+M	MN258222.1	Epuyen/18-19_Patient_9_12/12/18/nan/Argentina	Argentina
+M	MN258219.1	Epuyen/18-19_Patient_6_11/25/18/nan/Argentina	Argentina
+M	MN258214.1	Epuyen/18-19_Patient_29_1/14/19/nan/Argentina	Argentina
+M	MN258216.1	Epuyen/18-19_Patient_3_11/20/18/nan/Argentina	Argentina
+M	MN258210.1	Epuyen/18-19_Patient_25_1/6/19/nan/Argentina	Argentina
+M	MN258220.1	Epuyen/18-19_Patient_7_12/7/18/nan/Argentina	Argentina
+M	MN258197.1	Epuyen/18-19_Patient_12_12/19/18/nan/Argentina	Argentina
+M	MN258218.1	Epuyen/18-19_Patient_5_11/26/18/nan/Argentina	Argentina
+M	MN258201.1	Epuyen/18-19_Patient_16_12/28/18/nan/Argentina	Argentina
+M	MN258196.1	Epuyen/18-19_Patient_11_12/15/18/nan/Argentina	Argentina
+M	MN258203.1	Epuyen/18-19_Patient_18_12/31/18/nan/Argentina	Argentina
+M	MN258200.1	Epuyen/18-19_Patient_15_12/26/18/nan/Argentina	Argentina
+M	MN258212.1	Epuyen/18-19_Patient_27_1/8/19/nan/Argentina	Argentina
+M	MN258209.1	Epuyen/18-19_Patient_24_1/3/19/nan/Argentina	Argentina
+M	MN258208.1	Epuyen/18-19_Patient_23_1/7/19/nan/Argentina	Argentina
+M	MN258195.1	Epuyen/18-19_Patient_10_12/10/18/nan/Argentina	Argentina
+M	MN258221.1	Epuyen/18-19_Patient_8_12/13/18/nan/Argentina	Argentina
+M	MN258205.1	Epuyen/18-19_Patient_1_11/3/18/nan/Argentina	Argentina
+L	PP058739.1	13796_L|Argentina|1990/1990/Argentina	Argentina
+L	PP151172.1	ER19-SP1693/2019/Argentina	Argentina
+L	PP058737.1	15631_L|Argentina|1998/1998/Argentina	Argentina
+L	PP003837.1	BA18-LD1633/2018/Argentina	Argentina
+L	PP003836.1	BA18-RR1620/2018/Argentina	Argentina
+L	OQ092243.1	VARS/22-01/2022-12-09/Brazil	Brazil
+L	PP151171.1	BA16_LJC1557/2016/Argentina	Argentina
+L	OP555736.1	Arg-h484/nan/Argentina	Argentina
+L	PP151165.1	BA02_SMM484/2002/Argentina	Argentina
+L	PP151167.1	BA02_VO483/2002/Argentina	Argentina
+L	PP151166.1	BA02_VVN481/2002/Argentina	Argentina
+L	PP151169.1	BA02_AOA490/2002/Argentina	Argentina
+L	PP151170.1	BA02_ROM495/2002/Argentina	Argentina
+L	PP151168.1	BA02_RJF487/2002/Argentina	Argentina
+L	PP058738.1	807266_L|Paraguay|1997/1997/Paraguay	Paraguay
+L	MT956621.1	Chile-9717869/1997/Chile	Chile
+L	AF291704.5	Chile-9717869/nan/None	
+L	NC_003468.2	Chile-9717869/nan/None-2	
+L	MN850096.1	ARCH14/NRC1/nan/None	
+L	AY228239.1	CHI-7913/nan/Chile	Chile
+L	PV808472.1	CHI-7913/1999/Chile-2	Chile
+L	MT956620.1	CHI-7913/1999/Chile	Chile
+L	MN258157.1	NRC-2/97_06/01/1996/nan/Argentina	Argentina
+L	MN258160.1	NRC-5/18_06/01/2018/nan/Argentina	Argentina
+L	OR405522.1	ANDV-CH-LS-2022/2022/Switzerland	Switzerland
+L	KY659431.1	ANDV-LS-CH-2016/2016-12-26/Switzerland	Switzerland
+L	MN258159.1	NRC-4/18_06/01/2018/nan/Argentina	Argentina
+L	MN258158.1	NRC-3/18_06/01/1997/nan/Argentina	Argentina
+L	PV808478.1	CHI-Hu13724_P2/2024-07-30/Chile	Chile
+L	PV808475.1	CHI-Hu13724_P1/2024-07-24/Chile	Chile
+L	PV808469.1	137/2024-06-27/Chile	Chile
+L	PV796318.1	136/2024-06-27/Chile	Chile
+L	OP555732.1	Andes/ARG_p3/nan/Argentina	Argentina
+L	OP555735.1	Andes/ARG-M.a./nan/Argentina	Argentina
+L	OP555734.1	Andes/ARG_p19/nan/Argentina	Argentina
+L	OP555733.1	Andes/ARG_p9/nan/Argentina	Argentina
+L	MN850093.1	AREB14/P1/nan/None	
+L	MN850095.1	AREB14/P3/nan/None	
+L	MN850094.1	AREB14/P2/nan/None	
+L	MN850097.1	ARLA17/NRC2/nan/None	
+L	MN258156.1	Epilink/96_2/6/19/nan/Argentina	Argentina
+L	MN258161.1	NRC-6/18_05/21/18/nan/Argentina	Argentina
+L	MN258188.1	Epuyen/18-19_Patient_9_12/12/18/nan/Argentina	Argentina
+L	MN258170.1	Epuyen/18-19_Patient_18_12/31/18/nan/Argentina	Argentina
+L	MN258174.1	Epuyen/18-19_Patient_22_1/1/19/nan/Argentina	Argentina
+L	MN258185.1	Epuyen/18-19_Patient_6_11/25/18/nan/Argentina	Argentina
+L	MN258173.1	Epuyen/18-19_Patient_20_1/1/19/nan/Argentina	Argentina
+L	MN258169.1	Epuyen/18-19_Patient_17_12/31/18/nan/Argentina	Argentina
+L	MN258186.1	Epuyen/18-19_Patient_7_12/7/18/nan/Argentina	Argentina
+L	MN258171.1	Epuyen/18-19_Patient_19_1/2/19/nan/Argentina	Argentina
+L	MN258182.1	Epuyen/18-19_Patient_3_11/20/18/nan/Argentina	Argentina
+L	MN258187.1	Epuyen/18-19_Patient_8_12/13/18/nan/Argentina	Argentina
+L	MN258166.1	Epuyen/18-19_Patient_14_12/26/18/nan/Argentina	Argentina
+L	MN258168.1	Epuyen/18-19_Patient_16_12/28/18/nan/Argentina	Argentina
+L	MN258183.1	Epuyen/18-19_Patient_4_11/27/18/nan/Argentina	Argentina
+L	MN258184.1	Epuyen/18-19_Patient_5_11/26/18/nan/Argentina	Argentina
+L	MN258177.1	Epuyen/18-19_Patient_25_1/6/19/nan/Argentina	Argentina
+L	MN258163.1	Epuyen/18-19_Patient_11_12/15/18/nan/Argentina	Argentina
+L	MN258179.1	Epuyen/18-19_Patient_27_1/8/19/nan/Argentina	Argentina
+L	MN258180.1	Epuyen/18-19_Patient_28_1/6/19/nan/Argentina	Argentina
+L	MN258176.1	Epuyen/18-19_Patient_24_1/3/19/nan/Argentina	Argentina
+L	MN258175.1	Epuyen/18-19_Patient_23_1/7/19/nan/Argentina	Argentina
+L	MN258167.1	Epuyen/18-19_Patient_15_12/26/18/nan/Argentina	Argentina
+L	MN258162.1	Epuyen/18-19_Patient_10_12/10/18/nan/Argentina	Argentina
+L	MN258181.1	Epuyen/18-19_Patient_29_1/14/19/nan/Argentina	Argentina
+L	MN258164.1	Epuyen/18-19_Patient_12_12/19/18/nan/Argentina	Argentina
+L	MN258172.1	Epuyen/18-19_Patient_1_11/3/18/nan/Argentina	Argentina
+L	MN258178.1	Epuyen/18-19_Patient_26_1/4/19/nan/Argentina	Argentina
+L	MN258165.1	Epuyen/18-19_Patient_13_12/24/18/nan/Argentina	Argentina
